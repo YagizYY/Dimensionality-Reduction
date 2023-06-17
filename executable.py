@@ -259,5 +259,5 @@ print(f'Mean Train Error (PCA): {np.mean(train_error_pca)}\n Mean Train Error
 
 # As seen PCA works better. The possible reason is that PCA outperforms Isomap 
 #in capturing linear relationships. Probably there are linear relationships in 
-the dataset.
+# the dataset.
 
